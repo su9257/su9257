@@ -1,5 +1,5 @@
 * ♏ 个人博客主页：https://www.jianshu.com/u/84e03bc5c4a6
-* 💬 技术交流QQ群：46885339
+* 💬 技术交流QQ群：[46885339](shang.qq.com/wpa/qunwpa?idkey=a0f8613587f8afd0cf0a6d5d2500f324d7497d447147ba61346048e43418d396)
 
 * 🎉 表情符号列表：https://www.webfx.com/tools/emoji-cheat-sheet/
 
