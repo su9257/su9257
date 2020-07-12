@@ -1,6 +1,7 @@
-* 个人博客主页：https://www.jianshu.com/u/84e03bc5c4a6
-* 技术交流QQ群：46885339
+* ♏ 个人博客主页：https://www.jianshu.com/u/84e03bc5c4a6
+* 💬 技术交流QQ群：46885339
 
+* 🎉 表情符号列表：https://www.webfx.com/tools/emoji-cheat-sheet/
 
 <!--
 **su9257/su9257** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...:
 -->
+
