@@ -18,6 +18,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...:
 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=su9257&layout=compact&theme=dark)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=su9257&show_icons=true&theme=dark)
+<!-- 个人信息/介绍部分略 -->
+
+## 🚀 技术栈
+<div align="left">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-20232A?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+</div>
+
+## 📊 GitHub 统计
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=su9257&show_icons=true&theme=dark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=su9257&layout=compact&theme=dark" height="150"/>
+</div>
+
 
